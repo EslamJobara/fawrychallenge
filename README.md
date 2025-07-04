@@ -35,6 +35,3 @@ The goal was to simulate a shopping process that handles both digital and physic
 - **ShippingService**
   - Only accepts items that implement a `Shippable` interface (i.e. physical products).
   - Outputs total shipment weight.
-
-## 🧪 Test Scenario (Sample Output)
-```plaintext
